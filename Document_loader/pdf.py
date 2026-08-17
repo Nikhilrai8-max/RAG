@@ -9,4 +9,5 @@ docs = data.load()
 
 print(len(docs))  # prints the number of pages in the PDF each page is a separate document and contains the text and metadata of that page
 
+print(docs[0].page_content)  # prints the content of the first page
 
