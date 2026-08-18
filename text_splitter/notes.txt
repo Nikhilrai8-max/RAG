@@ -1,0 +1,409 @@
+1. Personal & Academic Profile
+
+Name: Nikhil Rai
+
+Education: B.Tech in Computer Science and Engineering
+
+University: Lovely Professional University (LPU)
+
+Current Year: Forth year
+
+CGPA: 8.58
+
+Location: India
+
+Nikhil Rai is a Computer Science Engineering student interested in software engineering, artificial intelligence, machine learning, backend development, and competitive programming.
+
+He is preparing for software engineering internships and technical interviews, including company online assessments and interview rounds.
+
+2. Programming Languages
+
+Nikhil has experience with:
+
+C
+C++
+Java
+Python
+JavaScript
+Go
+
+His strongest languages for coding and interview preparation are C++, Java, and Python.
+
+He has practiced Data Structures and Algorithms extensively using C++ and has solved 300+ coding problems across platforms such as LeetCode and GeeksforGeeks.
+
+3. Data Structures & Algorithms
+
+Nikhil has prepared the following DSA topics:
+
+Arrays
+Two Pointer
+Sliding Window
+Prefix Sum
+Kadane's Algorithm
+Binary Search
+Sorting
+Linked Lists
+Reversal
+Fast and Slow Pointer
+Cycle Detection
+Merge Linked Lists
+Reordering Linked Lists
+Trees
+Binary Trees
+Binary Search Trees
+Tree Traversals
+Lowest Common Ancestor
+Height and Diameter
+Balanced Trees
+Graphs
+BFS
+DFS
+Topological Sort
+Kahn's Algorithm
+Dijkstra
+Bellman-Ford
+Floyd-Warshall
+Dynamic Programming
+1D DP
+2D DP
+Knapsack
+Subset Sum
+Recursion + Memoization
+Tabulation
+Other Topics
+Backtracking
+Recursion
+Hashing
+Stacks
+Queues
+Heaps
+Priority Queues
+Red-Black Trees
+
+Nikhil is preparing for FAANG-level technical interviews and wants to improve both problem-solving ability and interview explanation skills.
+
+4. Web Development Skills
+
+Nikhil has experience with both frontend and backend development.
+
+Frontend
+
+Technologies include:
+
+React
+Vite
+JavaScript
+Tailwind CSS
+Next.js
+Jetpack Compose
+
+He prefers React + Vite for frontend projects when Next.js is not required.
+
+Backend
+
+Technologies include:
+
+Node.js
+Express.js
+FastAPI
+REST APIs
+
+He has worked with both JavaScript-based Node.js backends and Python-based FastAPI backends.
+
+Databases
+
+Nikhil has worked with:
+
+MongoDB
+SQLite
+PostgreSQL
+
+He is also interested in:
+
+Prisma
+MongoDB Aggregation
+5. Cloud & DevOps
+
+Nikhil is interested in cloud computing and backend infrastructure.
+
+Technologies and concepts he has explored include:
+
+AWS
+Docker
+Kubernetes
+Jenkins
+Kafka
+Redis
+REST APIs
+Deployment
+Environment variables
+CI/CD
+
+He has deployed applications using services such as Render.
+
+6. Artificial Intelligence & Machine Learning
+
+Nikhil is particularly interested in AI engineering.
+
+Areas of interest include:
+
+Machine Learning
+Deep Learning
+NLP
+Large Language Models
+Generative AI
+Retrieval-Augmented Generation
+AI Agents
+Agentic AI
+Computer Vision
+
+He has completed an Oracle AI/ML certification.
+
+7. LLM Technologies
+
+Nikhil has explored:
+
+OpenAI APIs
+Gemini API
+Groq
+Mistral
+LangChain
+LangGraph
+LLM APIs
+Embeddings
+Vector databases
+RAG
+
+He wants to move beyond basic LLM chatbots and build production-oriented AI systems.
+
+He is particularly interested in agentic AI, where an LLM can reason about a task, use tools, retrieve information, and execute multiple steps.
+
+8. RAG Knowledge
+
+Nikhil is learning Retrieval-Augmented Generation.
+
+The basic RAG pipeline he is studying is:
+
+Documents
+   ↓
+Document Loading
+   ↓
+Text Splitting
+   ↓
+Chunking
+   ↓
+Embedding Generation
+   ↓
+Vector Database
+   ↓
+Similarity Search
+   ↓
+Retrieved Context
+   ↓
+LLM
+   ↓
+Answer
+
+Important RAG concepts include:
+
+Document loaders
+Text chunking
+Chunk size
+Chunk overlap
+Embeddings
+Vector databases
+Similarity search
+Metadata
+Retrieval
+Context injection
+Prompt templates
+Reranking
+Hybrid search
+Semantic search
+Keyword search
+Retrieval evaluation
+
+Nikhil wants to practice RAG by creating a knowledge base about himself.
+
+9. Main Project — AlgoVerse
+
+AlgoVerse is one of Nikhil's major projects.
+
+It is a DSA Visualizer Hub designed to help students understand algorithms visually.
+
+The application can visualize:
+
+Sorting algorithms
+Searching algorithms
+Graph algorithms
+Tree algorithms
+Recursion
+Dynamic Programming
+Planned Features
+Bubble Sort visualization
+Merge Sort visualization
+Quick Sort visualization
+Insertion Sort visualization
+Searching visualization
+Graph traversal visualization
+Tree visualization
+DP visualization
+Quizzes
+Algorithm comparison
+Custom input
+Array size control
+Speed control
+Pause/resume
+Step-by-step execution
+Statistics
+Comparison count
+Swap count
+Execution time
+Side-by-side algorithm comparison
+Code view
+Pseudocode
+Dark mode
+User login
+Saved progress
+Technology
+
+Frontend:
+
+React
+Vite
+Tailwind CSS
+
+Other technologies explored in the project include:
+
+JavaScript
+Tone.js
+10. AI Investment Research Agent
+
+Nikhil has also worked on an idea for an AI Investment Research Agent.
+
+The goal is to create an AI system capable of helping users perform investment research.
+
+Potential architecture:
+
+React Frontend
+       ↓
+Node.js Backend
+       ↓
+LangChain.js / LangGraph.js
+       ↓
+LLM
+       ↓
+Research Tools
+       ↓
+Web / Financial Data
+       ↓
+Analysis
+       ↓
+Final Report
+
+The system can potentially include:
+
+Research agents
+Web search
+Financial information retrieval
+Document analysis
+LLM reasoning
+Report generation
+Chat history
+Session transcripts
+
+Nikhil wants the system to have a production-ready architecture rather than being just a simple chatbot.
+
+11. Agentic AI — EnterpriseOps
+
+Nikhil is interested in building a FAANG-level Agentic AI project called EnterpriseOps.
+
+The concept is an AI-powered enterprise operations system where multiple AI agents can collaborate to solve business and engineering tasks.
+
+Possible agents include:
+
+Manager Agent
+
+Breaks a user's request into smaller tasks.
+
+Research Agent
+
+Collects relevant information.
+
+Coding Agent
+
+Generates or analyzes code.
+
+Data Agent
+
+Analyzes structured data.
+
+Documentation Agent
+
+Creates reports and documentation.
+
+Verification Agent
+
+Checks the output generated by other agents.
+
+A possible architecture:
+
+User
+ ↓
+Manager Agent
+ ↓
+Task Planner
+ ↓
+ ┌───────────────┐
+ │               │
+Research       Coding
+Agent          Agent
+ │               │
+ └───────┬───────┘
+         ↓
+Verification Agent
+         ↓
+Final Response
+
+LangGraph can be used to orchestrate these agents.
+
+12. Computer Vision Projects
+
+Nikhil has explored computer vision projects using:
+
+OpenCV
+MediaPipe
+PyAutoGUI
+
+One project idea is a Gesture-to-Shortcut System.
+
+The system detects hand gestures through a camera and converts them into computer shortcuts.
+
+For example:
+
+Camera
+ ↓
+OpenCV
+ ↓
+MediaPipe Hand Detection
+ ↓
+Gesture Recognition
+ ↓
+Gesture → Command
+ ↓
+PyAutoGUI
+ ↓
+Computer Action
+13. CloudSense
+
+CloudSense is an AI-driven cloud motion analysis and weather prediction project.
+
+Potential technologies include:
+
+Python
+OpenCV
+ConvLSTM
+Optical Flow
+Streamlit
+
+The system analyzes cloud movement and attempts to predict weather patterns.

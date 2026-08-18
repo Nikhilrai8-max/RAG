@@ -11,7 +11,7 @@ data = TextLoader(
     "Document_loader/notes.txt",
     encoding="utf-8"  #encoding of the text file
 )
-docs = data.load()
+docs = data.load()  # similary we can load data from other sources like pdf, webpage, etc. and then we can use the loaded data to create a prompt for the model to generate a response.
 
 template = ChatPromptTemplate.from_messages(
     [
@@ -31,3 +31,4 @@ prompt = template.format_prompt(data=docs[0].page_content)
 
 result = model.invoke(prompt)
 print(result.content)
+
